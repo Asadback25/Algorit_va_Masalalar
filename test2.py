@@ -7,3 +7,4 @@ def fibonacci(n):
 # Foydalanuvchidan son olish
 n = int(input("Nechta Fibonachchi sonini chiqarmoqchisiz? "))
 print("Fibonachchi sonlari:", fibonacci(n))
+print("Test")
